@@ -1,0 +1,48 @@
+	#menu_top{
+		background: black;
+		height: 50px;
+	}
+	#banner{
+		background: #fff;
+		height: 280px;
+	}
+	#main #left{
+		background: blue;
+		width: 750px;
+		float: left;
+		min-height: 400px;
+	}
+	#main #right{
+		background: violet;
+		width: 250px;
+		float: right;
+		min-height: 400px;
+	}
+	#footer{
+		background: black;
+		height: 60px;
+		clear: left;
+		color: #fff;
+		line-height: 60px;
+		text-align: center;
+	}
+	#menu_top ul{
+		margin: 0px;
+		padding: 0px;
+	}
+	#menu_top ul li{
+		list-style: none;
+		float: left;
+	}
+	
+	#menu_top ul li a{
+		text-decoration: none;
+		display: block;
+		height: 40px;
+		list-style: 40px;
+		color: #fff;
+		padding: 10px 20px 0px 10px;
+		border-right: 1px solid #fff;
+	}
+
+	
